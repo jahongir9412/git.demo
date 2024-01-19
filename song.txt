@@ -1,7 +1,6 @@
 hello world
 hello jahongir
-
-
-1 asdasd
-2 swadasa
-3 sadaasd 
+hi
+bye
+hello
+hello
